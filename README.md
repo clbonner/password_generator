@@ -1,2 +1,3 @@
 # password_generator
-Random password generator written in python.
+
+Command line random password generator written in python. Can be adapted for other situations and/or different lists.
