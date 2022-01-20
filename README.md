@@ -4,6 +4,6 @@ Command line random password generator written in python. Can be adapted for oth
 Takes one argument of password length.
 
 **Usage:**
-'''
+```
 python password_generator [password length]
-'''
+```
