@@ -1,6 +1,6 @@
 # Password Generator
 
-Command line random password generator written in python. 
+Random password generator written in python, to be used from the command shell.
 
 Can be adapted for other situations and/or different lists.
 
