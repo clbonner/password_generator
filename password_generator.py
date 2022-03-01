@@ -26,7 +26,8 @@ while not VALID:
         password += CHARS[char_list][char]
         VALID_CHECK[char_list] = 1
 
-        # VALID becomes true when each charater set has been used at least once
-        if VALID_CHECK == [1,1,1,1]: VALID = True
+    # VALID becomes true when each charater set has been used at least once
+    if VALID_CHECK == [1,1,1,1]: VALID = True
+    else: VALID_CHECK = [0,0,0,0]
     
 print(password)
